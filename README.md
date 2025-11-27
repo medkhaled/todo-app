@@ -1,1 +1,1 @@
-#
+# Application de Gestion de Tâches - Symfony + React
